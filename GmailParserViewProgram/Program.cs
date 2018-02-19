@@ -7,6 +7,7 @@ using System.Windows.Forms;
 
 namespace GmailParserViewProgram
 {
+    // изменения
     static class Program
     {
         static private FormMailTriggerLogic FormMailTriggerLogic = null;

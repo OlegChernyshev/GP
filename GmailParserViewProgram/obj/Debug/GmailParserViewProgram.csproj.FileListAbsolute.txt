@@ -213,3 +213,39 @@ C:\GmailParserTwo v8\GmailParserTwo\GmailParserViewProgram\obj\Debug\GmailParser
 C:\GmailParserTwo v8\GmailParserTwo\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.csproj.CoreCompileInputs.cache
 C:\GmailParserTwo v8\GmailParserTwo\GmailParserViewProgram\obj\Debug\MailTrigger.exe
 C:\GmailParserTwo v8\GmailParserTwo\GmailParserViewProgram\obj\Debug\MailTrigger.pdb
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\MailTrigger.exe.config
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\MailTrigger.exe
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\MailTrigger.pdb
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\AE.Net.Mail.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\BouncyCastle.Crypto.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Auth.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Gmail.v1.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.PlatformServices.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\log4net.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Newtonsoft.Json.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\System.Net.Http.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Zlib.Portable.dll
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\AE.Net.Mail.pdb
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\BouncyCastle.Crypto.pdb
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Auth.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Core.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Google.Apis.Gmail.v1.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\log4net.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Newtonsoft.Json.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\bin\Debug\Zlib.Portable.xml
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.csprojResolveAssemblyReference.cache
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.FormMailTrigger.resources
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.FormDownload.resources
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.FormMailTriggerLogic.resources
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.Properties.Resources.resources
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.csproj.GenerateResource.Cache
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\GmailParserViewProgram.csproj.CoreCompileInputs.cache
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\MailTrigger.exe
+F:\Job\GmailParser19022018\GP\GmailParserViewProgram\obj\Debug\MailTrigger.pdb
